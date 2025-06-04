@@ -11,9 +11,9 @@
 
 ## Implementacion:
 
-# Función periódica
+# Funcion periodica
 
-* Se utilizo como ejemplo la función periodica: 
+* Se utilizo como ejemplo la funcion periodica: 
 
 * f(t)=sin(2πt), la cual es continua y periodica en el intervalo [0,2π].
 
@@ -21,7 +21,7 @@
 
 * Para obtener los coeficientes de la serie de Fourier (an y bn ), se empleo la Regla del trapecio como metodo de integracion numerica. Esta regla se aplico tanto en el enfoque iterativo como en el recursivo para evaluar las integrales definidas correspondientes a cada uno de los terminos.
 
-# Comparación de rendimiento
+# Comparacion de rendimiento
 
 * Se midio el tiempo de ejecucion de ambos metodos (iterativo y recursivo) para diferentes valores de N, que representan la cantidad de armonicos calculados. A continuacion, se presentan los tiempos promedio obtenidos:
 
@@ -35,11 +35,11 @@ N = 50 → Tiempo iterativo: 0.195803 s | Tiempo recursivo: 0.200351 s
    
 # Analisis comparativo
 
-** ¿Cuál metodo resulta mas eficiente? **
+** ¿Cual metodo resulta mas eficiente? **
 
 En general, se puede decir que el metodo recursivo fue un poco mas rápido en los primeros casos cuando N es pequeño, pero para valores mas grandes como N = 50, el metodo iterativo fue mas estable.
 
-** ¿Por qué? **
+** ¿Por que? **
 
 Ambos hacen basicamente lo mismo, pero con diferente forma de recorrer los datos.
 
