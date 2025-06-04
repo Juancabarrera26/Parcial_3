@@ -21,9 +21,17 @@
    Se midio el tiempo de ejecucion de ambos metodos para distintos valores de N es decir los numero de armonicos. 
 
 4. **Visualización de resultados**  
-   Se grafico el tiempo que tarda cada enfoque en funcion del numero de armonicos.
+   Se grafico el tiempo que tarda cada enfoque en funcion del numero.
+
+```
+N = 5 → Tiempo iterativo: 0.018052 s | Tiempo recursivo: 0.017874 s
+N = 10 → Tiempo iterativo: 0.038903 s | Tiempo recursivo: 0.036415 s
+N = 20 → Tiempo iterativo: 0.078653 s | Tiempo recursivo: 0.073550 s
+N = 50 → Tiempo iterativo: 0.195803 s | Tiempo recursivo: 0.200351 s
+```
+![Captura de pantalla 2025-06-04 090805](https://github.com/user-attachments/assets/3e69afab-1b86-46f0-afc2-3af9a729355a)
    
-5. **Analisis comparativo**
+6. **Analisis comparativo**
 
 * - ¿Cuál método resulta más eficiente?
 
