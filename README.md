@@ -18,7 +18,13 @@
    Se uso la (Regla del Trapecio) para calcular las integrales de los coeficientes `a₀`, `aₙ`, `bₙ`.
 
 3. **Comparacion de rendimiento**  
-   Se midio el tiempo de ejecucion de ambos metodos para distintos valores de N (numero de armonicos). Opcionalmente, también se puede medir el consumo de memoria usando `memory_profiler`.
+   Se midio el tiempo de ejecucion de ambos metodos para distintos valores de N es decir los numero de armonicos. 
 
 4. **Visualización de resultados**  
    Se grafico el tiempo que tarda cada enfoque en funcion del numero de armonicos.
+   
+5. **Analisis comparativo**
+
+* - ¿Cuál método resulta más eficiente?
+
+**
