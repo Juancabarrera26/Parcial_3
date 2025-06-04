@@ -37,7 +37,7 @@ N = 50 → Tiempo iterativo: 0.195803 s | Tiempo recursivo: 0.200351 s
 
 ** ¿Cual metodo resulta mas eficiente? **
 
-En general, se puede decir que el metodo recursivo fue un poco mas rápido en los primeros casos cuando N es pequeño, pero para valores mas grandes como N = 50, el metodo iterativo fue mas estable.
+En general, se puede decir que el metodo recursivo fue un poco mas rapido en los primeros casos cuando N es pequeño, pero para valores mas grandes como N = 50, el metodo iterativo fue mas estable.
 
 ** ¿Por que? **
 
